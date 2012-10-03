@@ -614,6 +614,7 @@ pl:
   option_values: "Option Values"
   options: Opcje
   or: lub
+  or_over_price: "Powyżej %{price}"
   order: Zamówienie
   orders: Zamówienia
   order_confirmation_note: ""
@@ -695,6 +696,7 @@ pl:
   previous: Poprzednie
   price: Cena
   price_bucket: Price Bucket
+  price_range: Przedział cenowy
   price_with_vat_included: "%{price} (wł. VAT)"
   problem_authorizing_card: "Wystąpił problem przy autoryzacji karty"
   problem_capturing_card: "Wystąpił problem z przechwyceniem karty"
@@ -1078,6 +1080,7 @@ pl:
   unable_to_connect_to_gateway: "Unable to connect to gateway."
   unable_to_save_order: "Unable to Save Order"
   under_paid: "Under Paid"
+  under_price: "Poniżej %{price}"
   unrecognized_card_type: Unrecognized card type
   update: Aktualizuj
   update_password: "Update my password and log me in"
