@@ -247,7 +247,7 @@ pl:
   administration: Administracja
   advertise: Reklamuj
   all: "Wszystkie"
-  all_departments: Wszystkie departamenty
+  all_departments: Wszystkie działy
   allow_backorders: "Allow Backorders"
   allow_ssl_in_development_and_test: Użyj SSL w środowisku deweloperskim i testowym
   allow_ssl_in_production: Użyj SSL w środowisku produkcyjnym
