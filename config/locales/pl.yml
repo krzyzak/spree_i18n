@@ -622,9 +622,9 @@ pl:
   order_email_resent: "Email z zamowieniem ponownie przesłany"
   order_mailer:
     cancel_email:
-      subject: "Cancellation of Order"
+      subject: "Odwołanie złożenia zamówienia"
     confirm_email:
-      subject: "Order Confirmation"
+      subject: "Potwierdzenie złożenia zamówienia"
   order_not_in_system: That order number is not valid on this site.
   order_number: "Nr zamówienia"
   order_operation_authorize: Autoryzuj
@@ -950,7 +950,7 @@ pl:
   shipment_inc_vat: "Shipment including VAT"
   shipment_mailer:
     shipped_email:
-      subject: "Shipment Notification"
+      subject: "Informacja na temat wysyłki"
   shipment_number: "Shipment #"
   shipment_state: Stan Wysyłki
   shipment_states:
