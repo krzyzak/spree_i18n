@@ -414,8 +414,7 @@ pl:
       no_payment_methods_available: "Brak skonfigurowanych metod płatności dla tego środowiska"
       no_shipping_methods_available: "Brak dostępnych metod dostawy dla wybranej lokalizacji, proszę zmienić adres i spróbować ponownie."
   errors_prohibited_this_record_from_being_saved:
-    one: "1 błąd zapobiegł zapisowi tego rekordu"
-    other: "%{count} błedy(ów) zapobiegły(o) zapisowani tego rekordu"
+    "%{count} błedy(ów) zapobiegły(o) zapisowani tego rekordu"
   event: Wydarzenie
   events:
     spree:
