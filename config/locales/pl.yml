@@ -666,7 +666,7 @@ pl:
   payment: Płatność
   payment_actions: "Akcje"
   payment_gateway: "Metoda Płatności"
-  payment_information: "Payment Information"
+  payment_information: "Iformacje na temat płatności"
   payment_method: Metoda Płatności
   payment_methods: Metody Płatności
   payment_methods_setting_description: "Konfiguruj metody, którymi klienci mogą płacić"
